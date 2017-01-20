@@ -7,7 +7,7 @@ For information about how to contribute to the VBA documentation, see [Contribut
 In addition to the online reference content for VBA, we also have offline copies for some of the products. Note that these offline CHMs represent a snapshot of the content as of 11/06/2015; for the latest updates, always view the content on GitHub or MSDN. You can also use the [Export feature] (https://msdn.microsoft.com/en-us/library/export/help/) on MSDN to create your own offline documentation.
 
 The VBA references available include:
-
++ TOC VBA - [https://github.com/suwat9/VBA-content/blob/master/VBA/TOC.md]
 + Access - [Download ACVBACon.chm](VBA/Offline-Docs/ACVBACon.chm)
 + Excel - [Download XLVBACon.chm](VBA/Offline-Docs/XLVBACon.chm)
 + PowerPoint - [Download PPVBACon.chm](VBA/Offline-Docs/PPVBACon.chm)
